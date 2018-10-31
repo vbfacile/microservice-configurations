@@ -1,0 +1,6 @@
+server:
+  port: 8001
+name: amine-teahouse
+expert: Amine Mezian
+tea: Green Tea
+teahouse: Amine's tea house
